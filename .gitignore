@@ -1,0 +1,5 @@
+*.pyc
+.pytest_cache
+build
+__pycache__
+_build

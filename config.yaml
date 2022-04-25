@@ -1,0 +1,6 @@
+path:
+  agreste: input/agreste/*
+  synop: input/synop/*
+  final_data: input/final_data.csv
+naming:
+  prediction_column: Class
