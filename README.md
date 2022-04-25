@@ -1,6 +1,6 @@
 #TO DO : CHANGE README CONTENT ACCORDINGLY
 
-# Product Name
+# CROP YIELD
 > Short blurb about what your product does.
 
 [![NPM Version][npm-image]][npm-url]
